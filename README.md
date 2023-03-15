@@ -1,5 +1,5 @@
 # ReadMe
-[![Social banner for haleyw1237](./assets/Turquoise Simple Modern Linkedin Banner.mp4)](https://www.linkedin.com/in/haley-williams-91a877174/)
+[![Social banner for haleyw1237](./assets/GitHubBanner.mp4)](https://www.linkedin.com/in/haley-williams-91a877174/)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Haley Williams.
